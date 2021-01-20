@@ -2,10 +2,10 @@
 
 This repository contains all assignments and projects related to web programming course
 
-Name: Sandeep Reddy Salkuti
+# Name: Sandeep Reddy Salkuti
 
-Wiki Link for Web-ICPs:
+# Wiki Link for Web-ICPs:
 
-Wiki Link for Mobile-ICPs:
+# Wiki Link for Mobile-ICPs:
 
-Wiki Link Project:
+# Wiki Link Project:
